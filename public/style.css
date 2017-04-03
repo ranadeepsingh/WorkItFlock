@@ -1,0 +1,42 @@
+h1 {
+	font-size: 3.9rem ;
+}
+
+.row .col
+{
+	padding: 0;
+}
+
+.input-field
+{
+	position: absolute;
+}
+
+.featu
+{
+	right: 3px;
+	
+	top: 1px;
+	margin-right: 8px;
+	bottom: 0px;
+	position: absolute;
+}
+
+.b1{
+	margin-left: 100px;
+	margin-top: -62px;
+
+}
+
+.ad
+{
+	float: right;
+	display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  font-size: 20px;
+  background-color: #f44336;
+font-size: 20px;
+padding: 7px;
+}
